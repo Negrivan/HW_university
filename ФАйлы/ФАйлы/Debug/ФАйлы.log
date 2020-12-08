@@ -1,0 +1,10 @@
+﻿  ФАйлы.cpp
+C:\Users\crizw\source\repos\ФАйлы\ФАйлы\ФАйлы.cpp(29,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\crizw\source\repos\ФАйлы\ФАйлы\ФАйлы.cpp(57,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\crizw\source\repos\ФАйлы\ФАйлы\ФАйлы.cpp(63,20): warning C4244: =: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\crizw\source\repos\ФАйлы\ФАйлы\ФАйлы.cpp(75,21): warning C4018: <: несоответствие типов со знаком и без знака
+  ФАйлы.vcxproj -> C:\Users\crizw\source\repos\ФАйлы\Debug\ФАйлы.exe
