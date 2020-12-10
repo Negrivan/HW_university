@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.9. Системы счисления", "4.9. Системы счисления\4.9. Системы счисления.vcxproj", "{82AD980C-BF15-4F6F-946F-A6AE36E5A07B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82AD980C-BF15-4F6F-946F-A6AE36E5A07B}.Debug|x64.ActiveCfg = Debug|x64
+		{82AD980C-BF15-4F6F-946F-A6AE36E5A07B}.Debug|x64.Build.0 = Debug|x64
+		{82AD980C-BF15-4F6F-946F-A6AE36E5A07B}.Debug|x86.ActiveCfg = Debug|Win32
+		{82AD980C-BF15-4F6F-946F-A6AE36E5A07B}.Debug|x86.Build.0 = Debug|Win32
+		{82AD980C-BF15-4F6F-946F-A6AE36E5A07B}.Release|x64.ActiveCfg = Release|x64
+		{82AD980C-BF15-4F6F-946F-A6AE36E5A07B}.Release|x64.Build.0 = Release|x64
+		{82AD980C-BF15-4F6F-946F-A6AE36E5A07B}.Release|x86.ActiveCfg = Release|Win32
+		{82AD980C-BF15-4F6F-946F-A6AE36E5A07B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE3DF2F3-EBC8-4866-BB78-8D524AF25D4A}
+	EndGlobalSection
+EndGlobal
