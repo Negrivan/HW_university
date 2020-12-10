@@ -63,6 +63,6 @@ int fact(int n)
 	}
 	else
 	{
-		return n;
+		return 1;
 	}
 }
