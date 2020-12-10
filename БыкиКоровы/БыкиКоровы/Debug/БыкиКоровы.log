@@ -1,0 +1,3 @@
+﻿  БыкиКоровы.cpp
+C:\Users\crizw\source\repos\БыкиКоровы\БыкиКоровы\БыкиКоровы.cpp(15,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  БыкиКоровы.vcxproj -> C:\Users\crizw\source\repos\БыкиКоровы\Debug\БыкиКоровы.exe
