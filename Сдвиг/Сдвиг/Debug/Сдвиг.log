@@ -1,0 +1,3 @@
+﻿  Сдвиг.cpp
+C:\Users\crizw\source\repos\Сдвиг\Сдвиг\Сдвиг.cpp(62,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Сдвиг.vcxproj -> C:\Users\crizw\source\repos\Сдвиг\Debug\Сдвиг.exe

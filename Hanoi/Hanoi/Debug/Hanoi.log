@@ -1,0 +1,3 @@
+﻿  Hanoi.cpp
+C:\Users\crizw\source\repos\Hanoi\Hanoi\Hanoi.cpp(25,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Hanoi.vcxproj -> C:\Users\crizw\source\repos\Hanoi\Debug\Hanoi.exe
